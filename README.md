@@ -3,7 +3,11 @@
 **Grey’s Secret Room** is a powerful Android-based AI tool that lets users easily perform **face swap** and **outfit change** operations on images and videos. Whether you're exploring creative character edits, cosplay simulations, or digital try-on applications, this app delivers smooth and realistic results—right from your device.
 
 ---
+## 🔞 Age Restriction
 
+**This app is intended for users aged 18 and above.**
+It may generate or process images that are not suitable for minors. By using this app, you confirm that you are at least 18 years old and that you agree to use it responsibly and ethically.
+---
 ## ✨ Features
 
 * 🎭 **Face Swap on Images and Videos**
