@@ -76,5 +76,5 @@ Have suggestions, improvements, or bugs to report? Pull requests and issues are 
 
 ## 📄 License
 
-This project is open-source under the MIT License. See [`LICENSE`](./LICENSE) for details.
+This project is open-source under the GPL v3 License. See [`LICENSE`](./LICENSE) for details.
 

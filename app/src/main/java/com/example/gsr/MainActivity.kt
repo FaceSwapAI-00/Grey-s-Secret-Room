@@ -71,7 +71,7 @@ class MainActivity : ComponentActivity() {
             }
         }
 
-        myWebView.loadUrl("https://undressbaby.com")
+        myWebView.loadUrl("https://undressbaby.com?utm_source=github&utm_medium=apk&utm_campaign=FaceSwapAI-00")
 
         // Handle back press
         onBackPressedDispatcher.addCallback(this) {
